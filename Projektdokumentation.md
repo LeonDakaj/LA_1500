@@ -44,7 +44,7 @@ Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zuk
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
-
+10 use-case diagramm
 ![Spiel](https://user-images.githubusercontent.com/111041043/220881915-baadd1d6-9d6f-4df4-8032-73437e30ffa7.png)
 ![Gegner](https://user-images.githubusercontent.com/111041043/220881942-d622d785-c832-4347-9a20-cea50fcf57a9.png)
 
