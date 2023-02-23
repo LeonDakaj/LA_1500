@@ -22,8 +22,13 @@ Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zuk
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |Muss|Funktional|  |
-
+| 1    |Muss|Funktional| Als ein User möchte ich das Hauptmenü bedienen können. |
+| 2    |Muss|Qualität| Als ein User möchte ich eine Infobox haben. |
+| 3    |Muss|Funktional| Als ein User möchte ich das Spiel Starten können. |
+| 4    |Muss|Funktional| Als ein User möchte ich das Spiel Beenden können. |
+| 5    |Muss|Funktional| Als ein User möchte ich mit einer Waffe, Zombies schiessen können.|
+| 6    |Muss|Funktional| Als ein User möchte ich pro Kill, punkte erhalten. |
+| 7    |Muss|Funktional| Als ein User möchte ich mit der Zeit, bessere Waffen erhalten. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
