@@ -6,7 +6,7 @@ Chrysanthemum
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|       | 0.0.1   | Wir haben das Projekt beschrieben und habe die User Stories fertig geschrieben. |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -33,8 +33,6 @@ Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zuk
 | 9    |Muss|Funktional| Als ein User möchte ich die Waffen wechseln können. |
 | 10   |Muss|Funktional| Als ein User möchte ich verschiedene Arten von Zombies abschiessen können.|
 
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
