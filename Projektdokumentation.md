@@ -2,7 +2,7 @@
 
 
 Dakaj, Bielski, Innamorato
-
+Chrysanthemum
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -14,16 +14,16 @@ Dakaj, Bielski, Innamorato
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wir programmieren ein First-Prson-Shooter Range Game mit Unity.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zukommende Gegner abschiessen kann. Man soll mit einem Crosshair Zielen können und pro Schuss, gewisse Spielzeit erhalten. Wir erhoffen uns den Umgang mit Unity zu erlernen, sowohl auch die Gruppenarbeit zu verbessern, indem wir uns gut koordinieren.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |Muss|Funktional|  |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
