@@ -40,23 +40,23 @@ Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zuk
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| ---- | ------------ | ------- | ----------------- |
-|1.1|User befindet sich im Hauptmenu|User drückt "Spiel beenden"|Spiel wird beendet|
-|2.1|User befindet sich im Hauptmenu| - |Infobpx mit Scoreboard wird angezeigt|
-|3.1|User befindet sich im Hauptmenu|User drückt "Speil starten"|Spiel wird gestartet|
-|4.1|User befindet sich im Hauptmenu|User drückt "Spiel beenden"|Spiel wird beendet|
-|5.1|Speil gestartet|Maus bewegen/ WASD |Das Crosshair bewegt sich|
-|6.1|User zielt auf Zombie|Links Klick|Die Waffe schiesst|
-|7.1| User tötet ein Zombie | - | Punkte bekommen/ Score erhöht sich  |
-|8.1| User hat bereits mehrere Zombies getötet | - | Der User bekommt eine besssere Waffe  |
-|9.1| User hat bereits mehrere Waffen | User drückt; 1, 2, 3, .. | Die gewählte Waffe wird ausgewählt |
-|10.1| Spiel gestartet | - | Verschiedene Zombies kommen auf den User zu |
-|11.1| User hat bereits hohen Score/ lange Spielzeit | - | Zombies haben mehr Leben / sind schneller |
-|12.1|  Zombies haben mehr Leben / sind schneller | - | Pop-Up Fenster mit Warnung, dass Zombies stärker werden |
-|13.1| Spiel gestartet | - | Timer der die Spielzeit misst |
-|14.1| User befindet sich in den Einstellungen |User bestimmt neue Keybinds| Die Keybinds werden aktualisiert |
-|15.1| Spiel gestartet | - | Zombies machen geräusche |
+| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
+| ---- | --------------- | ---- | ---------------------------------- |
+| 1    |Muss|Funktional| Als User möchte ich das Hauptmenü bedienen können, damit ich den Modus auswählen und das Scoreboard sehen kann. |
+| 2    |Kann|Qualität| Als ein User möchte ich eine Infobox/scoreboard haben, damit ich mein score mit anderen Vergleichen kann. |
+| 3 | Kann | Funktional | Als ein User möchte ich Headshots schiessen können, damit mein Skill belohnt wird und ich mehr Punkten bekomme. |
+| 4 | Kann | Funktional | Als User möchte ich gerne meinen Namen eingeben können, damit er auf der Scoreboard angezeigt wird. |
+| 5    |Muss|Funktional| Als ein User möchte ich ein Crosshair haben, damit ich Zielen kann. |
+| 6    |Muss|Funktional| Als ein User möchte ich mit einer Waffe, Zombies schiessen können, damit ich Punkte bekomme und länger überlebe.|
+| 7    |Muss|Funktional|Als User möchte ich Punkte pro Kill bekommen, damit ich in Spielen ein Ziel habe.|
+| 8    |Muss|Funktional| Als ein User möchte ich mit der Zeit, verschiedene Waffen erhalten, damit der game mehr complex wird  . |
+| 9    |Muss|Funktional|Als User möchte ich in der Lage sein, die Waffen zu wechseln, um mich besser an die Gegner anzupassen. |
+| 10   |Kann|Funktional|  Als User möchte , verschiedene Arten von Zombies zu erschiessen, um die Herausforderung zu erhöhen.|
+| 11   |Muss|Funktional|Als User möchte ich mit der Zeit immer schwierigere Gegner bekämpfen, so dass das Spiel irgendwann zu Ende ist, wenn sie mich überwinden.  |
+| 12 | Muss | Qualität | Als ein User möchte ich gerne wissen, wenn schwierigere Gegner auftauchen, und zwar über ein Pop-up Fenster , damit ich mich besser vorbereiten kann.|
+| 13 | Muss |Funktional| Als User möchte ich gerne einen Timer haben, damit ich weiss, wie lange ich am Spielen bin. |
+| 14 | Kann | Qualität | Als User möchte ich die Sensitivität und die Keybinds selbst bestimmen können, damit ich besser spielen kann. |
+| 15 | Kann | Qualität | Als User möchte ich Geräusche hören, damit ich besser weiss, was passiert.  |
 
 ### 1.4 Diagramme
 ![Use-Case](https://user-images.githubusercontent.com/111041043/222374485-ec1a42d4-5ae0-4ec9-b2e2-76e5e40eb5da.jpg)
