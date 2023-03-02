@@ -19,24 +19,23 @@ Wir programmieren ein First-Person-Shooter Range Game mit Unity.
 Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zukommende Gegner abschiessen kann. Man soll mit einem Crosshair Zielen können und pro Schuss, gewisse Spielzeit erhalten. Wir erhoffen uns den Umgang mit Unity zu erlernen, sowohl auch die Gruppenarbeit zu verbessern, indem wir uns gut koordinieren.
 
 ### 1.2 User Stories
-
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |Muss|Funktional| Als ein User möchte ich das Hauptmenü bedienen können. |
-| 2    |Muss|Qualität| Als ein User möchte ich eine Infobox/scoreboard haben. |
-| 3 | --------------- | ---- | ---------------------------------- |
-| 4 | --------------- | ---- | ---------------------------------- |
-| 5    |Muss|Funktional| Als ein User möchte ich ein Crosshair haben, womit ich Zielen kann. |
-| 6   |Muss|Funktional| Als ein User möchte ich mit einer Waffe, Zombies schiessen können.|
-| 7  |Muss|Funktional| Als ein User möchte ich pro Kill, punkte erhalten. |
-| 8  |Muss|Funktional| Als ein User möchte ich mit der Zeit, verschiedene Waffen erhalten. |
-| 9  |Muss|Funktional| Als ein User möchte ich die Waffen wechseln können. |
-| 10 |Muss|Funktional| Als ein User möchte ich verschiedene Arten von Zombies abschiessen können.|
-| 11 |Muss|Funktional| Als ein User möchte ich mit der Zeit immer schwierigere Gegner bekämpfen. |
-| 12 | Muss | Qualität | Als ein User möchte ich gerne wissen, wenn schwierigere Gegner auftauchen, und zwar über ein Pop-up Fenster.|
+| 1    |Muss|Funktional| Als User möchte ich das Hauptmenü bedienen können, damit ich den Modus auswählen und das Scoreboard sehen kann. |
+| 2    |Kann|Qualität| Als ein User möchte ich eine Infobox/scoreboard haben, damit ich mein score mit anderen Vergleichen kann. |
+| 3 | Kann | Funktional | Als ein User möchte ich Headshots schiessen können, damit mein Skill belohnt wird und ich mehr Punkten bekomme. |
+| 4 | Kann | Funktional | Als User möchte ich gerne meinen Namen eingeben können, damit er auf der Scoreboard angezeigt wird. |
+| 5    |Muss|Funktional| Als ein User möchte ich ein Crosshair haben, damit ich Zielen kann. |
+| 6    |Muss|Funktional| Als ein User möchte ich mit einer Waffe, Zombies schiessen können, damit ich Punkte bekomme und länger überlebe.|
+| 7    |Muss|Funktional|Als User möchte ich Punkte pro Kill bekommen, damit ich in Spielen ein Ziel habe.|
+| 8    |Muss|Funktional| Als ein User möchte ich mit der Zeit, verschiedene Waffen erhalten, damit der game mehr complex wird  . |
+| 9    |Muss|Funktional|Als User möchte ich in der Lage sein, die Waffen zu wechseln, um mich besser an die Gegner anzupassen. |
+| 10   |Kann|Funktional|  Als User möchte , verschiedene Arten von Zombies zu erschiessen, um die Herausforderung zu erhöhen.|
+| 11   |Muss|Funktional|Als User möchte ich mit der Zeit immer schwierigere Gegner bekämpfen, so dass das Spiel irgendwann zu Ende ist, wenn sie mich überwinden.  |
+| 12 | Muss | Qualität | Als ein User möchte ich gerne wissen, wenn schwierigere Gegner auftauchen, und zwar über ein Pop-up Fenster , damit ich mich besser vorbereiten kann.|
 | 13 | Muss |Funktional| Als User möchte ich gerne einen Timer haben, damit ich weiss, wie lange ich am Spielen bin. |
-| 14 | Muss | Qualität | Als User möchte ich die Sensitivität und die Keybinds selbst bestimmen können, damit ich besser spielen kann. |
-| 15 | Muss | Qualität | Als User möchte ich Geräusche hören, damit ich besser weiss, was passiert.  |
+| 14 | Kann | Qualität | Als User möchte ich die Sensitivität und die Keybinds selbst bestimmen können, damit ich besser spielen kann. |
+| 15 | Kann | Qualität | Als User möchte ich Geräusche hören, damit ich besser weiss, was passiert.  |
 
 ### 1.3 Testfälle
 
