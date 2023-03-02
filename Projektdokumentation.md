@@ -36,22 +36,32 @@ Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zuk
 | 12 | Muss | Qualität | Als ein User möchte ich gerne wissen, wenn schwierigere Gegner auftauchen, und zwar über ein Pop-up Fenster.|
 | 13 | Muss |Funktional| Als User möchte ich gerne einen Timer haben, damit ich weiss, wie lange ich am Spielen bin. |
 | 14 | Muss | Qualität | Als User möchte ich die Sensitivität und die Keybinds selbst bestimmen können, damit ich besser spielen kann. |
-| 15 | Muss | Qualität | Als User möchte ich Geräusche hören, damit ich besser weiss, was passiert.  |
+| 15 | Muss | Qualität | Als User möchte ich Geräusche hören, damit ich besser weiß, was passiert.  |
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+|1.1|User befindet sich im Hauptmenu|User drückt "Spiel beenden"|Spiel wird beendet|
+|2.1|User befindet sich im Hauptmenu| - |Infobpx mit Scoreboard wird angezeigt|
+|3.1|User befindet sich im Hauptmenu|User drückt "Speil starten"|Spiel wird gestartet|
+|4.1|User befindet sich im Hauptmenu|User drückt "Spiel beenden"|Spiel wird beendet|
+|5.1|Speil gestartet|Maus bewegen/ WASD |Das Crosshair bewegt sich|
+|6.1|User zielt auf Zombie|Links Klick|Die Waffe schiesst|
+|7.1| User tötet ein Zombie | - | Punkte bekommen/ Score erhöht sich  |
+|8.1| User hat bereits mehrere Zombies getötet | - | Der User bekommt eine besssere Waffe  |
+|9.1| User hat bereits mehrere Waffen | User drückt; 1, 2, 3, .. | Die gewählte Waffe wird ausgewählt |
+|10.1| Spiel gestartet | - | Verschiedene Zombies kommen auf den User zu |
+|11.1| User hat bereits hohen Score/ lange Spielzeit | - | Zombies haben mehr Leben / sind schneller |
+|12.1|  Zombies haben mehr Leben / sind schneller | - | Pop-Up Fenster mit Warnung, dass Zombies stärker werden |
+|13.1| Speil gestartet | - | Timer der die Spielzeit misst |
+|14.1| User befindet sich in den Einstellungen |User bestimmt neue Keybinds| Die Keybinds werden aktualisiert |
+|15.1| Spiel gestartet | - | Zombies machen geräusche |
 
 ### 1.4 Diagramme
 ✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein
 ![Spiel](https://user-images.githubusercontent.com/111041043/220881915-baadd1d6-9d6f-4df4-8032-73437e30ffa7.png)
 ![Gegner](https://user-images.githubusercontent.com/111041043/220881942-d622d785-c832-4347-9a20-cea50fcf57a9.png)
--Alle Zahlen sind nur ein **Vorschlag** und werden wahrscheinlich später angepasst
 
 
 ## 2 Planen
