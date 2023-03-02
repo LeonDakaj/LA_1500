@@ -36,7 +36,7 @@ Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zuk
 | 12 | Muss | Qualität | Als ein User möchte ich gerne wissen, wenn schwierigere Gegner auftauchen, und zwar über ein Pop-up Fenster.|
 | 13 | Muss |Funktional| Als User möchte ich gerne einen Timer haben, damit ich weiss, wie lange ich am Spielen bin. |
 | 14 | Muss | Qualität | Als User möchte ich die Sensitivität und die Keybinds selbst bestimmen können, damit ich besser spielen kann. |
-| 15 | Muss | Qualität | Als User möchte ich Geräusche hören, damit ich besser weiß, was passiert.  |
+| 15 | Muss | Qualität | Als User möchte ich Geräusche hören, damit ich besser weiss, was passiert.  |
 
 ### 1.3 Testfälle
 
@@ -51,6 +51,7 @@ Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zuk
 ✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein
 ![Spiel](https://user-images.githubusercontent.com/111041043/220881915-baadd1d6-9d6f-4df4-8032-73437e30ffa7.png)
 ![Gegner](https://user-images.githubusercontent.com/111041043/220881942-d622d785-c832-4347-9a20-cea50fcf57a9.png)
+-Alle Zahlen sind nur ein **Vorschlag** und werden wahrscheinlich später angepasst
 
 
 ## 2 Planen
