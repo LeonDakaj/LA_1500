@@ -27,12 +27,12 @@ Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zuk
 | 3 | --------------- | ---- | ---------------------------------- |
 | 4 | --------------- | ---- | ---------------------------------- |
 | 5    |Muss|Funktional| Als ein User möchte ich ein Crosshair haben, womit ich Zielen kann. |
-| 6    |Muss|Funktional| Als ein User möchte ich mit einer Waffe, Zombies schiessen können.|
-| 7    |Muss|Funktional| Als ein User möchte ich pro Kill, punkte erhalten. |
-| 8    |Muss|Funktional| Als ein User möchte ich mit der Zeit, verschiedene Waffen erhalten. |
-| 9    |Muss|Funktional| Als ein User möchte ich die Waffen wechseln können. |
-| 10   |Muss|Funktional| Als ein User möchte ich verschiedene Arten von Zombies abschiessen können.|
-| 11   |Muss|Funktional| Als ein User möchte ich mit der Zeit immer schwierigere Gegner bekämpfen. |
+| 6   |Muss|Funktional| Als ein User möchte ich mit einer Waffe, Zombies schiessen können.|
+| 7  |Muss|Funktional| Als ein User möchte ich pro Kill, punkte erhalten. |
+| 8  |Muss|Funktional| Als ein User möchte ich mit der Zeit, verschiedene Waffen erhalten. |
+| 9  |Muss|Funktional| Als ein User möchte ich die Waffen wechseln können. |
+| 10 |Muss|Funktional| Als ein User möchte ich verschiedene Arten von Zombies abschiessen können.|
+| 11 |Muss|Funktional| Als ein User möchte ich mit der Zeit immer schwierigere Gegner bekämpfen. |
 | 12 | Muss | Qualität | Als ein User möchte ich gerne wissen, wenn schwierigere Gegner auftauchen, und zwar über ein Pop-up Fenster.|
 | 13 | Muss |Funktional| Als User möchte ich gerne einen Timer haben, damit ich weiss, wie lange ich am Spielen bin. |
 | 14 | Muss | Qualität | Als User möchte ich die Sensitivität und die Keybinds selbst bestimmen können, damit ich besser spielen kann. |
@@ -68,8 +68,38 @@ Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zuk
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| .A |       |Dakaj, Bielski, Innamorato|Unity Installieren|45|
+| .B|       |Dakaj, Bielski, Innamorato|Unity kennenlernen|45|
+| 1.C  |       |Dakaj, Bielski, Innamorato|Hauptmenü erstellen|45|
+| 2.D  |       |Dakaj, Bielski, Innamorato|Infobox/Scoreboard-Design erstellen|45|
+| 3.E  |       |Dakaj, Bielski, Innamorato|Hintergrundmusik und Soundeffekte einfügen|45|
+| 3.F  |       |Dakaj, Bielski, Innamorato|Grafiken und Texturen für das Spiel erstellen|45|
+| 4.G  |       |Dakaj, Bielski, Innamorato|Crosshair-Design erstellen|45|
+| 6.H  |       |Dakaj, Bielski, Innamorato|Zombie-Design erstellen|45|
+| 7.I  |       |Dakaj, Bielski, Innamorato|Punktevergabe-System implementieren|45|
+| 8.J  |       |Dakaj, Bielski, Innamorato|Waffen-Design erstellen|45|
+| 9.K  |       |Dakaj, Bielski, Innamorato|Waffen-Wechsel-System implementieren|45|
+| 10.L  |       |Dakaj, Bielski, Innamorato|Zombie-Typen-Design erstellen|45|
+| 11.M  |       |Dakaj, Bielski, Innamorato|Schwierigkeitsgrad-System implementieren|45|
+| 12.N  |       |Dakaj, Bielski, Innamorato|Pop-up Fenster-Design erstellen|45|
+| 13.O  |       |Dakaj, Bielski, Innamorato|Timer-System implementieren|45|
+| 14.P  |       |Dakaj, Bielski, Innamorato|Sensitivität-System implementieren|45|
+| 14.Q  |       |    Dakaj, Bielski, Innamorato       |Keybinds-System implementieren|45|
+| 6.R |       |Dakaj, Bielski, Innamorato|Zombie-Spawn-System implementieren|45|
+| .S |       |Dakaj, Bielski, Innamorato|Umgebung-Design erstellen|45|
+| 1.T  |       |Dakaj, Bielski, Innamorato|Spiel-Start-Animation erstellen|45|
+| 1.U  |       |Dakaj, Bielski, Innamorato|Spiel-Ende-Animation erstellen|45|
+| 6.T  |       |Dakaj, Bielski, Innamorato|Zombie-Health-System implementieren|45|
+| 11.V  |       |Dakaj, Bielski, Innamorato|Power-Ups-Design erstellen|45|
+| 11.W  |       |Dakaj, Bielski, Innamorato|Power-Ups-System implementieren|45|
+| 2.X |       |Dakaj, Bielski, Innamorato|Highscore-System implementieren|45|
+| 2.Y  |       |Dakaj, Bielski, Innamorato|Statistiken-System implementieren|45|
+| ..Z  |       |Dakaj, Bielski, Innamorato|Einstellungs Menu designen|45|
+| .AA|       |Dakaj, Bielski, Innamorato|Einstellungs Menu implementieren|45|
+| 3.AB |       |Dakaj, Bielski, Innamorato|Headshot System implementieren|45|
+| 3.AB |       |Dakaj, Bielski, Innamorato|Headshot System implementieren|45|
+
+
 Es braucht mindst. 36 Pakete
 Total: 
 
