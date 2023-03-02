@@ -23,7 +23,7 @@ Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zuk
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |Muss|Funktional| Als ein User möchte ich das Hauptmenü bedienen können. |
-| 2    |Muss|Qualität| Als ein User möchte ich eine Infobox haben. |
+| 2    |Muss|Qualität| Als ein User möchte ich eine Infobox/scoreboard haben. |
 | 3    |Muss|Funktional| Als ein User möchte ich das Spiel Starten können. |
 | 4    |Muss|Funktional| Als ein User möchte ich das Spiel Beenden können. |
 | 5    |Muss|Funktional| Als ein User möchte ich ein Crosshair haben, womit ich Zielen kann. |
@@ -32,7 +32,11 @@ Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zuk
 | 8    |Muss|Funktional| Als ein User möchte ich mit der Zeit, bessere Waffen erhalten. |
 | 9    |Muss|Funktional| Als ein User möchte ich die Waffen wechseln können. |
 | 10   |Muss|Funktional| Als ein User möchte ich verschiedene Arten von Zombies abschiessen können.|
-
+| 11   |Muss|Funktional| Als ein User möchte ich mit der Zeit immer schwierigere Gegner bekämpfen. |
+| 12 | Muss | Qualität | Als ein User möchte ich gerne wissen, wenn schwierigere Gegner auftauchen, und zwar über ein Pop-up Fenster.|
+| 13 | Muss |Funktional| Als User möchte ich gerne einen Timer haben, damit ich weiss, wie lange ich am Spielen bin. |
+| 14 | Muss | Qualität | Als User möchte ich die Sensitivität und die Keybinds selbst bestimmen können, damit ich besser spielen kann. |
+| 15 | Muss | Qualität | Als User möchte ich Geräusche hören, damit ich besser weiß, was passiert.  |
 
 ### 1.3 Testfälle
 
