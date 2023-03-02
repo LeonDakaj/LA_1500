@@ -6,7 +6,11 @@ Chrysanthemum
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | Wir haben das Projekt beschrieben und habe die User Stories fertig geschrieben. |
+|23.02.2023| 0.0.1   | Wir haben das Projekt beschrieben und habe die User Stories fertig geschrieben. |
+|02.02.2023| 0.0.2     |1.3 + 1.4 + 2 gemacht/verbessert|
+|       | ...     |                                                              |
+|       | ...     |                                                              |
+|       | ...     |                                                              |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
