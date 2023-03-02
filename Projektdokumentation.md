@@ -67,8 +67,8 @@ Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zuk
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| .A |       |Dakaj, Bielski, Innamorato|Unity Installieren|45|
-| .B|       |Dakaj, Bielski, Innamorato|Unity kennenlernen|45|
+|0 .A |       |Dakaj, Bielski, Innamorato|Unity Installieren|45|
+| 0.B|       |Dakaj, Bielski, Innamorato|Unity kennenlernen|45|
 | 1.C  |       |Dakaj, Bielski, Innamorato|Hauptmenü erstellen|45|
 | 2.D  |       |Dakaj, Bielski, Innamorato|Infobox/Scoreboard-Design erstellen|45|
 | 3.E  |       |Dakaj, Bielski, Innamorato|Hintergrundmusik und Soundeffekte einfügen|45|
@@ -100,7 +100,7 @@ Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zuk
 
 
 Es braucht mindst. 36 Pakete
-Total: 
+Total: 29
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
