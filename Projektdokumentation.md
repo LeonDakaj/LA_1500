@@ -14,7 +14,7 @@ Chrysanthemum
 
 ### 1.1 Ihr Projekt
 
-Wir programmieren ein First-Prson-Shooter Range Game mit Unity.
+Wir programmieren ein First-Person-Shooter Range Game mit Unity.
 
 Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zukommende Gegner abschiessen kann. Man soll mit einem Crosshair Zielen können und pro Schuss, gewisse Spielzeit erhalten. Wir erhoffen uns den Umgang mit Unity zu erlernen, sowohl auch die Gruppenarbeit zu verbessern, indem wir uns gut koordinieren.
 
@@ -24,12 +24,12 @@ Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zuk
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |Muss|Funktional| Als ein User möchte ich das Hauptmenü bedienen können. |
 | 2    |Muss|Qualität| Als ein User möchte ich eine Infobox/scoreboard haben. |
-| 3    |Muss|Funktional| Als ein User möchte ich das Spiel Starten können. |
-| 4    |Muss|Funktional| Als ein User möchte ich das Spiel Beenden können. |
+| 3 | --------------- | ---- | ---------------------------------- |
+| 4 | --------------- | ---- | ---------------------------------- |
 | 5    |Muss|Funktional| Als ein User möchte ich ein Crosshair haben, womit ich Zielen kann. |
 | 6    |Muss|Funktional| Als ein User möchte ich mit einer Waffe, Zombies schiessen können.|
 | 7    |Muss|Funktional| Als ein User möchte ich pro Kill, punkte erhalten. |
-| 8    |Muss|Funktional| Als ein User möchte ich mit der Zeit, bessere Waffen erhalten. |
+| 8    |Muss|Funktional| Als ein User möchte ich mit der Zeit, verschiedene Waffen erhalten. |
 | 9    |Muss|Funktional| Als ein User möchte ich die Waffen wechseln können. |
 | 10   |Muss|Funktional| Als ein User möchte ich verschiedene Arten von Zombies abschiessen können.|
 | 11   |Muss|Funktional| Als ein User möchte ich mit der Zeit immer schwierigere Gegner bekämpfen. |
@@ -54,7 +54,7 @@ Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zuk
 |10.1| Spiel gestartet | - | Verschiedene Zombies kommen auf den User zu |
 |11.1| User hat bereits hohen Score/ lange Spielzeit | - | Zombies haben mehr Leben / sind schneller |
 |12.1|  Zombies haben mehr Leben / sind schneller | - | Pop-Up Fenster mit Warnung, dass Zombies stärker werden |
-|13.1| Speil gestartet | - | Timer der die Spielzeit misst |
+|13.1| Spiel gestartet | - | Timer der die Spielzeit misst |
 |14.1| User befindet sich in den Einstellungen |User bestimmt neue Keybinds| Die Keybinds werden aktualisiert |
 |15.1| Spiel gestartet | - | Zombies machen geräusche |
 
@@ -70,7 +70,7 @@ Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zuk
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |       |           |              |               |
 | ...  |       |           |              |               |
-
+Es braucht mindst. 36 Pakete
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
