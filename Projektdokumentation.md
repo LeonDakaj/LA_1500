@@ -71,7 +71,7 @@ Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zuk
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-|0 .A |       |Dakaj, Bielski, Innamorato|Unity Installieren|45|
+|0.A |       |Dakaj, Bielski, Innamorato|Unity Installieren|45|
 | 0.B|       |Dakaj, Bielski, Innamorato|Unity kennenlernen|45|
 | 1.C  |       |Dakaj, Bielski, Innamorato|Hauptmenü erstellen|45|
 | 2.D  |       |Dakaj, Bielski, Innamorato|Infobox/Scoreboard-Design erstellen|45|
@@ -118,8 +118,9 @@ Total: 29
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 0.A  |  09.03.23     |      Alle     |       45        |            70       |
+| 0.B  |  09.03.23     |      Alle     |       45        |            70       |
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
