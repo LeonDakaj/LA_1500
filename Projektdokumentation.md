@@ -8,7 +8,7 @@ Chrysanthemum
 | ----- | ------- | ------------------------------------------------------------ |
 |23.02.2023| 0.0.1   | Wir haben das Projekt beschrieben und habe die User Stories fertig geschrieben. |
 |02.02.2023| 0.0.2     |1.3 + 1.4 + 2 gemacht/verbessert|
-|       | ...     |                                                              |
+| 09.02.2023 | 0.0.3    | movement und fp ausprobiert, Ein weg code auf github hochladen zu könneno   |                                                              
 |       | ...     |                                                              |
 |       | ...     |                                                              |
 |       | ...     |                                                              |
