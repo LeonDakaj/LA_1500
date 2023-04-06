@@ -50,6 +50,6 @@ Durch die textliche Beschreibung, das Video und den Code-Ausschnitt zeigen wir a
 
 Die Aufgabenverteilung war gut. Jeder wusste was er machen musste. Die Kommunikation war auch nicht problematisch. Jeder hat sich geäussert falls etwas Prorgamm selber nicht gut war oder wenn man die Aufgabenverteilung nicht so verstanden hat.
 
-Wir hatten ein grosses Problem uns an Unity zu gewöhnen und somit konnten wir nicht das erreichen, was wir uns in der Planung vorgenommen hatten.
+Wir hatten ein grosses Problem uns an Unity zu gewöhnen und somit konnten wir nicht alles erreichen, was wir uns in der Planung vorgenommen hatten.
 
 **VBV**: Wir sollten uns für das nächste mal realistische Ziele setzen, die sehr wenige Probleme mit sich bringen. Wir sollten uns auch mehr videos über Unity selbst anschauen oder jemand mit Ehrfarung fragen.
