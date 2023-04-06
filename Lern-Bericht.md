@@ -40,6 +40,8 @@ void FixedUpdate() {
 
 ```
 
+YT Video zur Veranschaulichung der Bewegung mit Vector 3: [Vector 3 Movement](https://youtu.be/XiK3oven-LY)
+
 
 ## Verifikation
 
