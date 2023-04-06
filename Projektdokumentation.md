@@ -143,7 +143,8 @@ Um die begrenzte Zeit optimal zu nutzen, haben wir auch einige Assets aus dem In
 | 3.1  | 03.04.23  | Erfolgreich bestanden     | Bielski    |
 | 3.2  | 03.04.23  | Erfolgreich bestanden     | Innamorato |
 | 3.3  | 03.04.23  | Erfolgreich bestanden     | Dakaj      |
-Fazit: Das Testen unseres First-Person-Shooter-Schießspiels in Unity verlief insgesamt erfolgreich. Die meisten Testfälle konnten erfolgreich bestanden werden, lediglich einer fiel durch. Wir haben daraufhin den entsprechenden Bereich überarbeitet und erneut getestet, woraufhin der Test erfolgreich bestanden wurde. Insgesamt sind wir mit dem Testergebnis zufrieden und haben nun eine solide Grundlage für weitere Entwicklungen und Verbesserungen.
+
+Das Testen unseres First-Person-Shooter-Schießspiels in Unity verlief insgesamt erfolgreich. Die meisten Testfälle konnten erfolgreich bestanden werden, lediglich einer fiel durch. Wir haben daraufhin den entsprechenden Bereich überarbeitet und erneut getestet, woraufhin der Test erfolgreich bestanden wurde. Insgesamt sind wir mit dem Testergebnis zufrieden und haben nun eine solide Grundlage für weitere Entwicklungen und Verbesserungen.
 
 
 
