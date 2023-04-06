@@ -9,10 +9,10 @@ Chrysanthemum
 |23.02.2023| 0.0.1   | Wir haben das Projekt beschrieben und habe die User Stories fertig geschrieben. |
 |02.02.2023| 0.0.2     |1.3 + 1.4 + 2 gemacht/verbessert|
 | 09.02.2023 | 0.0.3    | movement und fp ausprobiert, Ein weg code auf github hochladen zu könneno   |                                                              
-|       | ...     |                                                              |
-|       | ...     |                                                              |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|  16.02.2023     | 0.0.4     |     Movement und Waffen refieniert                                                         |
+|   23.03.2023    | 0.0.5     |Map und Code verschönert|
+|    30.03.2023   | 1.0.0     |   Powerpoint Vorträge                                                           |
+|       |   |                                                              |
 
 ## 1 Informieren
 
@@ -103,26 +103,30 @@ Wir möchten ein spielbares Shooter Range game erstellen, indem man auf sich zuk
 | 3.AB |       |Dakaj, Bielski, Innamorato|Headshot System implementieren|45|
 
 
-Es braucht mindst. 36 Pakete
-Total: 29
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Leider waren wir aus Zeitgründen gezwungen, einige Funktionen aus unserem Projekt zu streichen. Dazu gehörten verschiedene Waffen, Headshot-Unterstützung, verschiedene Gegnertypen, ein Scoreboard mit Highscore-Anzeige sowie Soundeffekte. Trotz dieser Einschränkungen konnten wir jedoch eine spielbare Version unseres First-Person-Shooter-Schießspiels in Unity entwickeln.
 
+Um die begrenzte Zeit optimal zu nutzen, haben wir auch einige Assets aus dem Internet heruntergeladen, um die Entwicklung zu beschleunigen. Dabei haben wir jedoch darauf geachtet, nur lizenzfreie und rechtlich einwandfreie Ressourcen zu verwenden.
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 0.A  |  09.03.23     |      Alle     |       45        |            70       |
 | 0.B  |  09.03.23     |      Alle     |       45        |            70       |
+| 3.F  |   16.03.23    |Dakaj |Grafiken und Texturen für das Spiel erstellen|45| 50|
+| 4.G  |   16.03.23     | Bielski|Crosshair-Design erstellen|45|20|
+| 6.H  |   16.03.23     | Bielski|Zombie-Design erstellen|45|30|
+| 8.J  |  16.03.23     |Dakaj|Waffen-Design erstellen|45|10|
+| 14.P  |  16.03.23     |Innamorato|Sensitivität-System implementieren|45| 60|
+| 14.Q  |   23.03.23    |    Innamorato       |Keybinds-System implementieren|45|60|
+| 1.T  |   23.03.23      | Innamorato|Spiel-Start-Animation erstellen|45|30|
+| .S |   23.03.23      |Dakaj|Umgebung-Design erstellen|45|60|
+| 6.T  |   23.03.23     | Bielski|Zombie-Health-System implementieren|45|50|
 
-
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
