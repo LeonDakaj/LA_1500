@@ -48,8 +48,8 @@ YT Video zur Veranschaulichung der Bewegung mit Vector 3: [Vector 3 Movement](ht
 Durch die textliche Beschreibung, das Video und den Code-Ausschnitt zeigen wir auf, wie wir die Vector 3-Klasse in Unity verwenden, um die Bewegung der Spielobjekte in unserem First-Person-Shooter zu kontrollieren.
 # Reflektion zum Arbeitsprozess
 
-Die Aufgabenverteilung war gut. Jeder wusste was er machen musste. Die Kommunikation war auch nicht problematisch. Jeder hat sich geäussert falls etwas Prorgamm selber nicht gut war oder wenn man die Aufgabenverteilung nicht so verstanden hat.
+Die Aufgabenverteilung war gut. Jedes Mitglied wusste, was er zu tun hatte. Die Kommunikation war nicht unangemessen. Jede Person hat sich geäussert, falls etwas am Programm selbst nicht gut war oder wenn man die Aufgabenverteilung nicht so verstanden hat.
 
-Wir hatten ein grosses Problem uns an Unity zu gewöhnen und somit konnten wir nicht alles erreichen, was wir uns in der Planung vorgenommen hatten.
+Wir hatten ein grosses Problem uns an Unity zu gewöhnen und somit konnten wir nicht das erreichen, was wir uns in der Planung vorgenommen hatten.
 
-**VBV**: Wir sollten uns für das nächste mal realistische Ziele setzen, die sehr wenige Probleme mit sich bringen. Wir sollten uns auch mehr videos über Unity selbst anschauen oder jemand mit Ehrfarung fragen.
+**VBV**: Wir sollten uns für das nächste Mal realistische Ziele setzen, die sehr wenige Probleme mit sich bringen. Wir sollten uns auch mehr Videos über Unity selbst anschauen oder jemand mit Erfahrung fragen.
