@@ -25,4 +25,5 @@ In unserem Projekt haben wir uns damit auseinandergesetzt, wie wir Vektoren in e
 
 👎 und etwas, was nicht gut lief.
 
+
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
