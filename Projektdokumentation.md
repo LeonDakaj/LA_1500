@@ -131,23 +131,22 @@ Um die begrenzte Zeit optimal zu nutzen, haben wir auch einige Assets aus dem In
 ## 5 Kontrollieren
 
 ### 5.1 Testprotokoll
+5.1 Testprotokoll
+| TC-№ | Datum     | Resultat                 | Tester     |
+|------|-----------|--------------------------|------------|
+| 1.1  | 29.03.23  | Erfolgreich bestanden     | Bielski    |
+| 1.2  | 30.03.23  | Erfolgreich bestanden     | Innamorato |
+| 1.3  | 31.03.23  | Erfolgreich bestanden     | Dakaj      |
+| 2.1  | 01.04.23  | Fehlgeschlagen            | Bielski    |
+| 2.2  | 02.04.23  | Erfolgreich bestanden     | Innamorato |
+| 2.3  | 02.04.23  | Erfolgreich bestanden     | Dakaj      |
+| 3.1  | 03.04.23  | Erfolgreich bestanden     | Bielski    |
+| 3.2  | 03.04.23  | Erfolgreich bestanden     | Innamorato |
+| 3.3  | 03.04.23  | Erfolgreich bestanden     | Dakaj      |
+Fazit: Das Testen unseres First-Person-Shooter-Schießspiels in Unity verlief insgesamt erfolgreich. Die meisten Testfälle konnten erfolgreich bestanden werden, lediglich einer fiel durch. Wir haben daraufhin den entsprechenden Bereich überarbeitet und erneut getestet, woraufhin der Test erfolgreich bestanden wurde. Insgesamt sind wir mit dem Testergebnis zufrieden und haben nun eine solide Grundlage für weitere Entwicklungen und Verbesserungen.
 
-| TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+[Lernbericht](https://github.com/LeonDakaj/LA_1500/blob/main/Lern-Bericht.md)
