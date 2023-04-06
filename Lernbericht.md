@@ -1,14 +1,11 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
-
+Dakaj, Bielski, Innamorato Chrysanthemum
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+ Wir haben ein First-Person-Shooter Shooting Range Game in Unity programiert
+ ## Was habe ich gelernt?
 
-## Was habe ich gelernt?
-
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
-
+In unserem Projekt haben wir uns damit auseinandergesetzt, wie wir Vektoren in einem 3D-Raum verwenden können, um die Bewegung von Objekten zu steuern. Konkret haben wir uns darauf konzentriert, wie man Vektoren zur Bewegung in einem First-Person-Shooter Shooting Range in Unity einsetzt. Durch das Programmieren und Experimentieren konnten wir unser Verständnis für Vektoren vertiefen und haben gelernt, wie sie uns helfen können, Bewegungen und Aktionen innerhalb eines 3D-Raums präzise zu kontrollieren.
 ## Beschreibung
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
